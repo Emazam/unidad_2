@@ -1,0 +1,41 @@
+h1{
+    background-color: aqua;
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  text-align: justify;
+}
+p{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+}
+li{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h3{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+.destacados{
+    color: black;
+    font-size: 20px;
+
+}
+#caja{
+    background-color: red;
+    width: 300px;
+    border: 5px solid;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
