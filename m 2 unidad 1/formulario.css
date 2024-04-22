@@ -1,0 +1,16 @@
+p {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 500;
+    font-style: italic;
+}
+
+label {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 500;
+    font-style: italic;
+
+}
