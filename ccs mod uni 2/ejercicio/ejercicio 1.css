@@ -1,0 +1,33 @@
+.contenedor {
+	border: 2px solid cornflowerblue;
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+
+}
+
+.caja {
+	width: 200px;
+	height: 200px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	background-color: white
+}
+
+.item1 {
+	background-color: blue;
+
+}
+
+.item2 {
+	background-color: red;
+
+}
+
+.item3 {
+	background-color: green;
+}
